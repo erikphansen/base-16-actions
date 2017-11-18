@@ -1,0 +1,17 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "plugins": ["prettier"],
+  "extends": ["airbnb-base", "prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-unused-vars": 1
+  },
+  "globals": {
+      "LaunchBar": true
+  }
+}
