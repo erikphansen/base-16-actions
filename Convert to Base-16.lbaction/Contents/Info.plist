@@ -6,19 +6,29 @@
 	<string>com.erikphansen.LaunchBar.action.ConvertToBase-16</string>
 	<key>CFBundleName</key>
 	<string>Convert to Hexadecimal (Base-16)</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>LBArgument</key>
+	<string>String representation of a base-10 number</string>
 	<key>LBDescription</key>
 	<dict>
+		<key>LBArgument</key>
+		<string>String representation of a base-10 number</string>
 		<key>LBAuthor</key>
-		<string></string>
+		<string>Erik P. Hansen</string>
 		<key>LBEmail</key>
-		<string></string>
+		<string>eph@erikphansen.com</string>
+		<key>LBResult</key>
+		<string>String representation of a base-16 number</string>
 		<key>LBSummary</key>
 		<string>Converts a number from decimal/Base-10 to hexadecimal/Base-16</string>
 		<key>LBTwitter</key>
-		<string></string>
+		<string>@</string>
 		<key>LBWebsiteURL</key>
-		<string></string>
+		<string>blog.erikphansen.com</string>
 	</dict>
+	<key>LBResult</key>
+	<string>String representation of a base-16 number</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
